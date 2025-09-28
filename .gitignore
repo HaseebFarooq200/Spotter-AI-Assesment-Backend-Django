@@ -1,0 +1,8 @@
+venv
+.env
+.env.local
+.env.dev
+__pycache__
+migrations
+.vscode
+allstatic
