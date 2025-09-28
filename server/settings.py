@@ -139,7 +139,6 @@ INSTALLED_APPS = [
     "rest_framework_simplejwt.token_blacklist",
     "corsheaders",
     "eb_sqs",
-    "silk",
     # ? Custom Apps
     "ping",
     "spotter_AI_app",
